@@ -1,0 +1,52 @@
+html, body, #root {
+  margin: 0;
+  padding:0;
+  height: 100%;
+  text-align: center;
+}
+
+.CouponBox{
+  display: inline-block;
+  text-align: left;
+  align-items: center;
+  border: 6px dashed #da30f4dd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  max-width: 300px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.SolidBox{
+  display: inline-block;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  max-width: 400px;
+}
+.Container{
+  padding: 2px 16px;
+  background-color: #fbda059d;
+  color: rgb(156, 28, 135);
+}
+.Container1{
+  color: rgb(156, 28, 135);
+}
+.Container2{
+  padding: 2px ;
+  background-color: #d5d5d57b;
+}
+
+.Expire{
+  color: rgb(179, 5, 5);
+}
+
+.Image{
+  position: center;
+  left:auto;
+  height: 200px;;
+  width: fit-content;
+}
+
+
